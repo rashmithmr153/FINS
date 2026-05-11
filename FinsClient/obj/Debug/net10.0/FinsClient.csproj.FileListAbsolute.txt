@@ -1,0 +1,14 @@
+E:\Rashmith\Donet\FinsClient\bin\Debug\net10.0\FinsClient.exe
+E:\Rashmith\Donet\FinsClient\bin\Debug\net10.0\FinsClient.deps.json
+E:\Rashmith\Donet\FinsClient\bin\Debug\net10.0\FinsClient.runtimeconfig.json
+E:\Rashmith\Donet\FinsClient\bin\Debug\net10.0\FinsClient.dll
+E:\Rashmith\Donet\FinsClient\bin\Debug\net10.0\FinsClient.pdb
+E:\Rashmith\Donet\FinsClient\obj\Debug\net10.0\FinsClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rashmith\Donet\FinsClient\obj\Debug\net10.0\FinsClient.AssemblyInfoInputs.cache
+E:\Rashmith\Donet\FinsClient\obj\Debug\net10.0\FinsClient.AssemblyInfo.cs
+E:\Rashmith\Donet\FinsClient\obj\Debug\net10.0\FinsClient.csproj.CoreCompileInputs.cache
+E:\Rashmith\Donet\FinsClient\obj\Debug\net10.0\FinsClient.dll
+E:\Rashmith\Donet\FinsClient\obj\Debug\net10.0\refint\FinsClient.dll
+E:\Rashmith\Donet\FinsClient\obj\Debug\net10.0\FinsClient.pdb
+E:\Rashmith\Donet\FinsClient\obj\Debug\net10.0\FinsClient.genruntimeconfig.cache
+E:\Rashmith\Donet\FinsClient\obj\Debug\net10.0\ref\FinsClient.dll

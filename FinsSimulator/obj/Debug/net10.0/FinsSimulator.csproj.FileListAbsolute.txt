@@ -1,0 +1,14 @@
+E:\Rashmith\Donet\FinsSimulator\obj\Debug\net10.0\FinsSimulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rashmith\Donet\FinsSimulator\obj\Debug\net10.0\FinsSimulator.AssemblyInfoInputs.cache
+E:\Rashmith\Donet\FinsSimulator\obj\Debug\net10.0\FinsSimulator.AssemblyInfo.cs
+E:\Rashmith\Donet\FinsSimulator\obj\Debug\net10.0\FinsSimulator.csproj.CoreCompileInputs.cache
+E:\Rashmith\Donet\FinsSimulator\bin\Debug\net10.0\FinsSimulator.exe
+E:\Rashmith\Donet\FinsSimulator\bin\Debug\net10.0\FinsSimulator.deps.json
+E:\Rashmith\Donet\FinsSimulator\bin\Debug\net10.0\FinsSimulator.runtimeconfig.json
+E:\Rashmith\Donet\FinsSimulator\bin\Debug\net10.0\FinsSimulator.dll
+E:\Rashmith\Donet\FinsSimulator\bin\Debug\net10.0\FinsSimulator.pdb
+E:\Rashmith\Donet\FinsSimulator\obj\Debug\net10.0\FinsSimulator.dll
+E:\Rashmith\Donet\FinsSimulator\obj\Debug\net10.0\refint\FinsSimulator.dll
+E:\Rashmith\Donet\FinsSimulator\obj\Debug\net10.0\FinsSimulator.pdb
+E:\Rashmith\Donet\FinsSimulator\obj\Debug\net10.0\FinsSimulator.genruntimeconfig.cache
+E:\Rashmith\Donet\FinsSimulator\obj\Debug\net10.0\ref\FinsSimulator.dll
