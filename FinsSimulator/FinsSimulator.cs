@@ -63,7 +63,7 @@ class FinsSimulator
             
         };
         return reply;
-        // TODO: return these exact 24 bytes:
+//todo add replay to the read command
         
         
     }
