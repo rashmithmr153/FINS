@@ -12,3 +12,4 @@ E:\Rashmith\Donet\FinsClient\obj\Debug\net10.0\refint\FinsClient.dll
 E:\Rashmith\Donet\FinsClient\obj\Debug\net10.0\FinsClient.pdb
 E:\Rashmith\Donet\FinsClient\obj\Debug\net10.0\FinsClient.genruntimeconfig.cache
 E:\Rashmith\Donet\FinsClient\obj\Debug\net10.0\ref\FinsClient.dll
+E:\Rashmith\Donet\FinsClient\obj\Debug\net10.0\FinsClient.sourcelink.json

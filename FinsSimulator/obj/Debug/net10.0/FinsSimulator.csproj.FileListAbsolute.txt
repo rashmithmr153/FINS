@@ -12,3 +12,4 @@ E:\Rashmith\Donet\FinsSimulator\obj\Debug\net10.0\refint\FinsSimulator.dll
 E:\Rashmith\Donet\FinsSimulator\obj\Debug\net10.0\FinsSimulator.pdb
 E:\Rashmith\Donet\FinsSimulator\obj\Debug\net10.0\FinsSimulator.genruntimeconfig.cache
 E:\Rashmith\Donet\FinsSimulator\obj\Debug\net10.0\ref\FinsSimulator.dll
+E:\Rashmith\Donet\FinsSimulator\obj\Debug\net10.0\FinsSimulator.sourcelink.json

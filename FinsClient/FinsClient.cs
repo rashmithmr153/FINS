@@ -44,7 +44,7 @@ class FinsClient
     {
         byte []readCommand=BuildReadCommand();
         await _networkStream.WriteAsync(readCommand,0,readCommand.Length);
-        byte [] reply=new byte[30];
+        byte [] reply=new byte[32];
         await _networkStream.ReadAsync(reply,0,reply.Length);
 
         Console.WriteLine("Read command reply:");

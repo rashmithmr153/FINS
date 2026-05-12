@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinsClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f79fdbfbb752db7a77f7366526e5d053204e4dee")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinsClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinsClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
